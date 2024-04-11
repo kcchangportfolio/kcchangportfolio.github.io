@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kcchangportfolio.github.io/al-folio//sitemap.xml
+Sitemap: https://kcchangportfolio.github.io/sitemap.xml
