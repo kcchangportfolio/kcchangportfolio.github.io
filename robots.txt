@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kcchangportfolio.github.io/sitemap.xml
+Sitemap: https://kcchangportfolio.github.io/blog//sitemap.xml
